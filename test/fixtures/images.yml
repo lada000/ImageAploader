@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  original_filename: MyString
+  s3_key: MyString
+  small_key: MyString
+  medium_key: MyString
+  large_key: MyString
+
+two:
+  original_filename: MyString
+  s3_key: MyString
+  small_key: MyString
+  medium_key: MyString
+  large_key: MyString
